@@ -1,5 +1,6 @@
 /*
- * main.c
+ *	Office Notifier
+ *	main.c
  *  Created: 11/19/2020 6:44:11 PM
  *  Author: Almer de Vries
  */ 
