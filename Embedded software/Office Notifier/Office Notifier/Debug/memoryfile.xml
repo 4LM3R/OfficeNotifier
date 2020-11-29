@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="Office Notifier.elf">                 
+    <memory name="program">              
+      <units>bytes</units>                 
+      <length>1024</length>                 
+      <used>550</used>                     
+      <free>474</free>                     
+    </memory>                              
+    <memory name="data">                 
+      <units>bytes</units>                 
+      <length>64</length>                 
+      <used>14</used>                     
+      <free>50</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
